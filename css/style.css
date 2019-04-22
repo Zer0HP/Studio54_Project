@@ -1,0 +1,110 @@
+	body{
+	overflow: scroll;
+	overflow-x: hidden; 
+	font-family: arial;
+}
+.sec_One{
+	margin: auto;
+	padding: auto;
+	height: 500px;
+	position: relative;
+	width: 800px;
+}
+.sec_Two{
+	background-color: green;
+	left: -8px;
+
+}
+.map_icon, .mail_icon, .text_icon{
+	background-color: green;
+} 
+.social_contact{
+	background-color: black;
+}
+.seo, .potloot, .doelgroep, .telefoon, .bericht{
+	background-color:  #333333;
+}
+.container{
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 700px;
+}
+.phone_number{
+	float: right;
+}
+.horizontal_menu{
+	list-style-type: none;
+	overflow: hidden;
+	background-color: #333333;
+	margin: auto;
+	padding: auto;
+	height: 45px;
+	margin-bottom: 100px;
+	word-spacing: 10px;
+	text-align: baseline;
+	border: 0px;
+	position: relative;
+	top: -8px;
+	left: -8px;
+	width: 1485px;
+}
+li{
+	line-height: 43px;
+	display: inline;
+	text-align: center;	
+	font-size: 13px;
+
+}
+li a:hover{
+	color: green;
+}
+li a{
+	text-decoration: none;
+	color: white;
+}
+.creative_54{
+	float: left;
+	width: 350px;
+	height: 245px;
+	max-height: 600px;
+	margin-bottom: 100px;
+}
+.crea_text{
+	max-width: 270px;
+	max-height: 400px;
+	float: right;
+	color: grey;
+}
+.map_icon, .text_icon{
+	float: left;
+}
+.text_loc{
+	float: left;
+}
+.mail_icon{
+	float: right; 
+}
+.slide_pic{
+	float: center;
+	width: 300;
+}
+.btn_Submit{
+	width: 100px;
+	height: 100px;
+}
+.send_Email{
+	text-align: center;
+}
+.info_Int{
+	width: 240px;
+	height: 30px;
+	margin-bottom: 10px;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+.descr_Studio54{
+	width: 500px;
+	height: 160px;
+	
+}
+
